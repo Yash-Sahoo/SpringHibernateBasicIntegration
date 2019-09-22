@@ -1,3 +1,5 @@
+<%@page isELIgnored="false" %>
+
 <html>
 <body>
 	<h2>Amazon Company</h2>
